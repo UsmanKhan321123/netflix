@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+}
+::placeholder{
+color: grey;
+}
+#gs{
+   background-color: red; 
+}
